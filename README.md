@@ -49,3 +49,6 @@ Grâce aux itérations successives d'ingénierie de prompt (notamment l'introduc
 
 ### Prérequis
 Assurez-vous d'avoir Python 3.10+ installé ainsi qu'une clé d'API Groq valide.
+   ```bash
+   pip install -r requirements.txt
+   ```
