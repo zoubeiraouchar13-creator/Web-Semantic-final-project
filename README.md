@@ -3,6 +3,11 @@
 * **Projet :** Réconciliation et interopérabilité des flux d'actualités internationaux (Schema.org ↔ BBC News)
 
 ---
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Groq](https://img.shields.io/badge/Groq-1.4.0-purple)
+![Requests](https://img.shields.io/badge/Requests-2.34.2-orange)
+![RDFLib](https://img.shields.io/badge/RDFLib-7.6.0-yellow)
+![License](https://img.shields.io/badge/License-CC_BY_NC-blue)
 
 ## 📝 Présentation du Projet
 Ce projet implémente une architecture multi-agents autonome capable d'aligner des ontologies hétérogènes décrivant le domaine des médias. En combinant la puissance algorithmique de graph-parsing de `RDFLib` avec les capacités cognitives et contextuelles d'un Grand Modèle de Langage (LLM) via l'API Groq, le système identifie, valide et sérialise les équivalences de classes et de propriétés selon les standards du W3C.
